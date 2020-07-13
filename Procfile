@@ -1,1 +1,1 @@
-{\rtf1}
+web: java -jar target/radionica.jar
