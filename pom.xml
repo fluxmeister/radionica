@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.vektorwebsolutions.www</groupId>
 	<artifactId>carservice</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>carservice</name>
 
 	<properties>
