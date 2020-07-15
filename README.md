@@ -1,2 +1,2 @@
 # radionica
-Java / Spring Boot / AngularJS / SQL web aplikacija za rukovanje entitetima u auto - radionici
+Java / Spring Boot / AngularJS / SQL web application for managing entities in a car service shop
